@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(27, 27, 27);
+}
+.blocks {
+    display: flex;
+    justify-content: space-around;
+}
+.block {
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+}
